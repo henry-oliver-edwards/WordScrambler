@@ -1,0 +1,1 @@
+INSERT INTO url(url) VALUES(?);
